@@ -18,6 +18,6 @@ Shows history and can chain operations.
 2. CSS (Grid, Flexbox, SASS)
 3. Vanilla JavaScript
 
-## Live link to the QR code component
+## Live link to the Calculator App
 
 [https://eric-calculator-app.netlify.app/](https://eric-calculator-app.netlify.app/ "Frontend Mentor Challenge - Calculator App")
